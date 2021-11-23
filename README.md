@@ -17,7 +17,7 @@ My social networks:
 
 twitter: https://twitter.com/computerfast23
 
-twitch: https:twitch.tv/computer23
+twitch: https://twitch.tv/computer23
 
 discord: https://bit.ly/computerfast23
 
