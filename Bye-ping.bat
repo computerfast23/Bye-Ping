@@ -14,6 +14,12 @@ echo Visita a computerfast23 en github https://github.com/computerfast23 visita 
 
 pause
 
+
+:no
+echo El codigo es incorrecto Intentelo de Nuevo
+goto volv
+pause
+
 REG ADD HKey_Local_Machine\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\ /v TcpAckFrequency /t REG_DWORD /d 0 /f
 
 REG ADD HKey_Local_Machine\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\ /v TCPNoDelay /t REG_DWORD /d 0 /f
