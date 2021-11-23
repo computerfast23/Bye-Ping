@@ -4,10 +4,14 @@ Color 4a
 :volv 
 
 set/p codigo= RECUERDE EJECUTAR EL PROGRAMA COMO ADMINISTRADOR Ingrese el codigo-
-If %codigo%==computer23 (goto seguir) else goto no
+If %codigo%==computerfast23 (goto seguir) else goto no
 :seguir
 cls
 echo Codigo correcto Cuando se le pida "Precione una tecla para continuar" presione la tecla enter
+pause
+
+echo Visita a computerfast23 en github https://github.com/computerfast23 visita el repositorio!!  https://github.com/computerfast23/Bye-Lag
+
 pause
 
 REG ADD HKey_Local_Machine\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\ /v TcpAckFrequency /t REG_DWORD /d 0 /f
