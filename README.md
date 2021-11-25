@@ -1,5 +1,5 @@
-# Bye-Lag
-Say goodbye to the lag of your games with a simple file!
+# Bye-Ping
+Say goodbye to the ping of your games with a simple file!
 
 FAQ:
 
