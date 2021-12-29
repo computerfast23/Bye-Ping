@@ -1,5 +1,6 @@
 # Bye-Ping
 Say goodbye to the ping of your games with a simple file!
+Bye ping is only available in Spanish language
 
 FAQ:
 
