@@ -49,10 +49,16 @@ A= Yep, you can verify it with your anti-virus
 
 Online Virus Detector
 
-- https://www.f-secure.com/es/home/free-tools/online-scanner
-- https://www.eset.com/es/hogar/online-scanner/
-- https://www.trendmicro.com/en_us/forHome/products/housecall.html
 - https://www.virustotal.com/
+- https://antiscan.me/
+- https://Avira.com/en/analysis/submit/
+- https://online.drweb.com/result2/
+- https://www.fortiguard.com/faq/onlinescanner
+- https://www.hybrid-analysis.com/
+- https://virusscan.jotti.org/
+- https://opentip.kaspersky.com/
+- https://metadefender.opswat.com/
+- https://nodistribute.com/
 
 
 -------------------------------------------------------------------
