@@ -32,7 +32,7 @@ RAM: 4gb
 
 Disk: 10mb
 
-Windows: Windows 7 (32bits)
+Windows: Windows 7 (64bits)
 
 
 ---------------------------------
