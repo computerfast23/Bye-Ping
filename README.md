@@ -4,6 +4,22 @@ Bye ping is only available in Spanish language
 
 This simple file can reduce your ping by 60% percent! It is not that this program is wonderful and everyone goes to 80 ping in their games but there may be a small change for example if before you had 200 ping now you can have 150 ping I would appreciate it if you help me to popularize this program :)
 
+Minimum requirement:
+
+CPU: Intel i386
+RAM: 512mb
+Disk: 10mb
+Windows: Windows vista
+
+Recommended requirement:
+
+CPU: Intel Celeron N4100
+RAM: 4gb
+Disk: 10mb
+Windows: Windows 7
+
+
+
 FAQ:
 
 1.- which is the code?
