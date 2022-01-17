@@ -9,14 +9,14 @@ Minimum requirement:
 CPU: Intel i386
 RAM: 512mb
 Disk: 10mb
-Windows: Windows vista
+Windows: Windows 95 (32bits)
 
 Recommended requirement:
 
-CPU: Intel Celeron N4100
+CPU: Intel Celeron G4920
 RAM: 4gb
 Disk: 10mb
-Windows: Windows 7
+Windows: Windows 7 (32bits)
 
 
 
