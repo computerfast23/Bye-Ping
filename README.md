@@ -50,11 +50,19 @@ A= Yep, you can verify it with your anti-virus
 Online Virus Detector
 
 -  https://www.virustotal.com/  (Best)
-- https://online.drweb.com/ (Recomended)
 - https://www.hybrid-analysis.com/ (Recomended)
 - https://virusscan.jotti.org/ (Recomended)
+- https://online.drweb.com/ 
 - https://opentip.kaspersky.com/
 - https://metadefender.opswat.com/
+
+_Note
+
+_Some antiviruses detect that this is a virus but the program is not a virus!
+
+_The most common reason that some antiviruses detect that this is a virus is because the program generates some files to achieve the configurations and reduce the ping, _another reason may be because cmd is executed, this is essential for its operation since this program is programmed in batch you can check all the code right here on _github!
+ 
+_you can use popular antivirus like avast to verify that this is not a virus
 
 
 -------------------------------------------------------------------
