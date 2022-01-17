@@ -7,15 +7,22 @@ This simple file can reduce your ping by 60% percent! It is not that this progra
 Minimum requirement:
 
 CPU: Intel i386
+
 RAM: 512mb
+
 Disk: 10mb
+
 Windows: Windows 95 (32bits)
+
 
 Recommended requirement:
 
 CPU: Intel Celeron G4920
+
 RAM: 4gb
+
 Disk: 10mb
+
 Windows: Windows 7 (32bits)
 
 
