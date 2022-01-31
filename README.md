@@ -28,7 +28,7 @@ Recommended requirement:
 
 CPU: Intel Celeron G4920
 
-RAM: 4gb
+RAM: 2gb
 
 Disk: 10mb
 
@@ -80,7 +80,7 @@ twitter: https://twitter.com/computerfast23
 
 twitch: https://twitch.tv/computer23
 
-discord: https://bit.ly/computerfast23
+discord: computerfast23#3311
 
 email: computer_23@yahoo.com 
 
