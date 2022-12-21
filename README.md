@@ -12,13 +12,13 @@ This simple file can reduce your ping by 60% percent! It is not that this progra
 
 Minimum requirement:
 
-CPU: Intel i386
+CPU: AMD E-350D APU
 
 RAM: 512mb
 
 Disk: 10mb
 
-Windows: Windows 95 (32bits)
+Windows: Windows vista (32bits)
 
 
 ----------------------------------
