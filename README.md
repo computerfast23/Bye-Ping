@@ -6,6 +6,8 @@ Bye ping is only available in Spanish language
 
 This simple file can reduce your ping by 60% percent! It is not that this program is wonderful and everyone goes to 80 ping in their games but there may be a small change for example if before you had 200 ping now you can have 150 ping I would appreciate it if you help me to popularize this program :)
 
+ATTENTION!
+Before running this program, if something goes wrong remember to make a restore point on your pc.
 
 ---------------------------------
 
