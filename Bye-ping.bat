@@ -138,7 +138,7 @@ echo:                                                                           
 ping localhost -n 3 >nul
 echo:
 echo:
-echo:                                                                                   [©] [computerfast23]  [2022]    
+echo:                                                                                   [©] [computerfast23]  [2025]    
 ping localhost -n 10 >nul
 echo                                                                              https://github.com/computerfast23/Bye-Ping
 start https://github.com/computerfast23/Bye-Ping
