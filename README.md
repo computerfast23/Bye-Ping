@@ -9,35 +9,6 @@ This simple file can reduce your ping by 60% percent! It is not that this progra
 ATTENTION!
 Before running this program, if something goes wrong remember to make a restore point on your pc.
 
----------------------------------
-
-
-Minimum requirement:
-
-CPU: AMD E-350D APU
-
-RAM: 512mb
-
-Disk: 10mb
-
-Windows: Windows vista (32bits)
-
-
-----------------------------------
-
-
-Recommended requirement:
-
-CPU: Intel Celeron G4920
-
-RAM: 2gb
-
-Disk: 10mb
-
-Windows: Windows 7 (64bits)
-
-
----------------------------------
 
 FAQ:
 
@@ -84,11 +55,11 @@ twitch: https://twitch.tv/computer23
 
 discord: computerfast23#3311
 
-email: computer_23@yahoo.com 
+email: admin@thec23projects.top
 
 
 do you have any questions?
 
-Let me know by twitter, discord or by my email
+Let me know on my email
 
 403 lines of Bye-Ping code
